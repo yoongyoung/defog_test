@@ -1,5 +1,8 @@
 from defog import Defog
 
+
+## test1
+
 defog = Defog()
 # user_question = "게시판별로 콘텐츠는 몇 개인지, 게시판 이벤트 갯수는 몇 개인지 조회하는 쿼리 알려줘. 테이블 조회는 stg_board, stg_board_content 만 해줘. stg_board_content 테이블에서 course_id=6인 데이터만 조회해줘. stg_board 테이블에서 board_id=3인 데이터만 조회해줘."
 # user_question = "게시판별로 콘텐츠는 몇 개인지, 게시판 이벤트 갯수는 몇 개인지 조회하는 쿼리 알려줘. 스키마는 public 스키마만 조회해줘"
